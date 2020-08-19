@@ -1,2 +1,4 @@
-jest failing || exit 1
-jest passing || exit 1
+set -e
+
+jest failing
+jest passing
